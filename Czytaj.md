@@ -1,4 +1,5 @@
-UWAGA WSZYSTKIE  WAŻNE INFORMACJE SĄ TUTAJ!
+NAJCZĘŚCIEJ ZADAWANE PYTANIA
+
 
 # Co to być?
  to jest bot dla mojej szkoły
