@@ -13,9 +13,6 @@
  dobry internet
  dobry komputer
  
- # Co to znaczy zainstalować pliki z package.json
- Musisz mieć zainstalowany npm i node.js. W konsoli w twoim pliku wpisz npm i discord.js  npm i path  npm i quick.db@7.0.0-b21   npm i fs npm i parse-ms   npm i mathjs 
- (wszystkie pojedyńczo)
  # Nie mogę zainstalować quick.db POMOCY!
  Uruchom program powershell jako administrator i wpisz :
  npm install --global --production --vs2015 --add-python-to-path windows-build-tools  oraz 
