@@ -33,3 +33,10 @@ Potem wpisz do terminala  node .   i juz bot się włączy.
  
  # Jeżeli chcesz skontaktować to wejdź na serwer discord: https://discord.gg/VHVw5sC
  
+ # Do zrobienia:
+ 
+ Komendy obrazkowe
+ 
+ wiecej komend
+ 
+ 
